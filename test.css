@@ -1,0 +1,51 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+input[type="text"]
+{
+
+}
+p {
+  background-color: black;
+  margin: 25px 50px 75px 100px;
+  border-style: solid;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table {
+  width: 100%;
+  border-style: solid;
+}
+
+th {
+  height: 50px;
+}
